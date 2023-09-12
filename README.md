@@ -4,11 +4,10 @@
 
 ```yaml
 Bio:
-    Name: "Gursimar Singh"
-    Role: "Software Developer @ resolveQ", "Google Developers Educator", "Author @ freeCodeCamp.org"
-    Education: "Computer Science Engineering"
-    Location: "Hyderabad, Telangana, India"
-    Fun Fact: "Speaker, Avid Blogger & Photographer"
+    Name: "Jerry Huang"
+    Role: "Software Developer @ metapos"
+    Education: "University of Auckland with Computer Science"
+    Location: "Auckland, New Zealand"
     
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
