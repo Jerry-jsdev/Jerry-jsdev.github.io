@@ -16,17 +16,17 @@ Bio:
 <h3 align="left">Programming Languages:</h3>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-<a> <img src="https://th.bing.com/th/id/R.73224ff83996ff1edc9c3532e965d393?rik=YgYv4DaVqfRBwg&riu=http%3a%2f%2fwww.techcentral.ie%2fwp-content%2fuploads%2f2015%2f08%2fCOBOL_logo_web.jpg&ehk=Oy%2fT%2fRJGTIU2IrM3JY%2ftUCOO9l6u4%2f4D7XWVyiQrpm8%3d&risl=&pid=ImgRaw&r=0" width="70" height="25"/> </a>
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MOJO]
+![C#]
+![MOJO]
+
+
 
 
 <h3 align="left">Cloud & DevOps:</h3>
@@ -35,18 +35,10 @@ Bio:
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://www.pngitem.com/pimgs/m/178-1789051_oracle-cloud-infrastructure-logo-hd-png-download.png"  width="100">
-![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
-![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)
-![Red Hat Open Shift](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat+Open+Shift&color=EE0000&logo=Red+Hat+Open+Shift&logoColor=FFFFFF&label=)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+
 
 <h3 align="left">Big Data:</h3>
 
