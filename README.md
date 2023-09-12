@@ -110,10 +110,9 @@ Bio:
 <h2> Connect with me: </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gursimarsm/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://medium.com/@gursimarsm"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="mailto:gursimarsm@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://twitter.com/gursimarsm"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/jerry-fullstack-developer/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://jerry-dev.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="mailto:jerry.jsdev@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 </p>
   <!---   <a href="https://hub.docker.com/u/xxxxxxx"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
 
