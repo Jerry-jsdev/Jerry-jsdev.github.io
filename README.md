@@ -65,7 +65,7 @@ Bio:
 
 <h3 align="left">Databases:</h3>
 
-![MySQL]
+![MySQL](https://img.shields.io/badge/MySql-%23e03eb8?style=for-the-badge&logo=MySQL)
 ![CouchDB]
 ![MsSQL]
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
