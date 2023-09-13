@@ -52,8 +52,9 @@ Bio:
 ![ReactJS](https://img.shields.io/badge/React_JS-blue?style=for-the-badge&logo=react)
 
 <h3 align="left">Mobile App Development:</h3>
-![React Native](https://img.shields.io/badge/react_native-%2325cec6?style=for-the-badge)
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2325cec6?style=for-the-badge)
 
 <h3 align="left">Designing:</h3>
 
