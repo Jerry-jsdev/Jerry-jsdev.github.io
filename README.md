@@ -22,9 +22,8 @@ Bio:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![MOJO]
-![C#]
-![MOJO]
+![C#](https://img.shields.io/badge/c_sharp-%23a83de5?style=for-the-badge&logo=sharp)
+![MOJO](https://img.shields.io/badge/MOJO-%23fc4e56?style=for-the-badge)
 
 
 
@@ -53,21 +52,21 @@ Bio:
 ![ReactJS](https://img.shields.io/badge/React_JS-blue?style=for-the-badge&logo=react)
 
 <h3 align="left">Mobile App Development:</h3>
-![React Native]
+![React Native](https://img.shields.io/badge/react_native-%2325cec6?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <h3 align="left">Designing:</h3>
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma]
+![Figma](https://img.shields.io/badge/figma-%233de56d?style=for-the-badge&logo=figma)
 
 
 <h3 align="left">Databases:</h3>
 
-![MySQL](https://img.shields.io/badge/MySql-%23e03eb8?style=for-the-badge&logo=MySQL)
-![CouchDB]
-![MsSQL]
+![MySQL](https://img.shields.io/badge/MySql-%2354424f?style=for-the-badge&logo=MySQL)
+![CouchDB](https://img.shields.io/badge/couchdb-%234b6cf2?style=for-the-badge&logo=apachecouchdb)
+![MsSQL](https://img.shields.io/badge/sql_server-%234bc0f2?style=for-the-badge&logo=microsoftsqlserver)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
