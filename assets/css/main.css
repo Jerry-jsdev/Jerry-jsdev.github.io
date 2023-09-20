@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	background-color:#0f0e16 !important;
+	
 }
 
 ol, ul {
@@ -154,8 +154,8 @@ input, select, textarea {
 
 	body {
 		
-		background:#0E1419;
-		color: #F8F8F2;
+		background:#0f0e16;
+		color: #c4c3c8;
 	}
 
 	body, input, select, textarea {
@@ -322,7 +322,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #FF79C6;
+		color: #c4c3c8;
 	}
 
 		a:hover {
