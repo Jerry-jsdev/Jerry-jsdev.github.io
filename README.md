@@ -23,8 +23,6 @@ Bio:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c_sharp-%23a83de5?style=for-the-badge&logo=sharp)
-![MOJO](https://img.shields.io/badge/MOJO-%23fc4e56?style=for-the-badge)
-
 
 
 
@@ -44,7 +42,7 @@ Bio:
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <h3 align="left">Web Development:</h3>
-
+![Nginx](https://img.shields.io/badge/-f?style=flat-square&logo=Nginx&logoColor=green&label=Nginx&labelColor=yellow&color=white)
 <a> <img src="https://th.bing.com/th/id/R.a89da1f0dab6e74fa8e0075ed72b0aa3?rik=9jxZkxIFyVUhDA&riu=http%3a%2f%2fandypanix.com%2fsites%2fandypanix.com%2ffiles%2f134%2fhttpdlogowide.png&ehk=OfhOiYPyQidg5IH2zahJkpPX1%2b%2fcHH%2bB5Zi3vlLEHJI%3d&risl=&pid=ImgRaw&r=0" width="65" height="35"/> </a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
